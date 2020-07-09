@@ -14,6 +14,12 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 - English (Intermediate)
 
+**Website:** <https://ntsd.me>
+
+**Github:** <https://github.com/ntsd>
+
+**Linkedin:** <https://www.linkedin.com/in/ntsd>
+
 ### TECHNICAL EXPERIENCE
 
 **Knowledges:**
@@ -41,11 +47,3 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 **Databases:**  Cassandra, MongoDB, MySQL/MariaDB, Firestore
 
 **Cloud Services:** Google Cloud Service, Netlify
-
-# LINKS
-
-**Website:** <https://ntsd.me>
-
-**Github:** <https://github.com/ntsd>
-
-**Linkedin:** <https://www.linkedin.com/in/ntsd>
