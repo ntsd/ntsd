@@ -1,6 +1,6 @@
 Hi, I'm @ntsd, I'm a Software Engineer.
 
-### PERSONAL INFORMATION
+## PERSONAL INFORMATION
 
 **Name:**  Jirawat Boonkumnerd
 
@@ -20,7 +20,7 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 **Linkedin:** <https://www.linkedin.com/in/ntsd>
 
-### TECHNICAL EXPERIENCE
+## TECHNICAL EXPERIENCE
 
 **Knowledges:**
 
