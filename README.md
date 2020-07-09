@@ -1,4 +1,4 @@
-Hi, I'm Jirawat Boonkumnerd, I'm a Software Engineer.
+Hi, I'm @ntsd, I'm a Software Engineer.
 
 ### PERSONAL INFORMATION
 
@@ -40,17 +40,7 @@ Hi, I'm Jirawat Boonkumnerd, I'm a Software Engineer.
 
 **Databases:**  Cassandra, MongoDB, MySQL/MariaDB, Firestore
 
-**Operating Systems:**  macOS, Linux, Windows, Unix-like
-
 **Cloud Services:** Google Cloud Service, Netlify
-  
-# WORK EXPERIENCE
-
-MAR 2020 - Present	**Self-Employed**
-
-SEP 2019 - MAR 2020	**OxygenAI (Software Engineer)**
-
-SEP 2018 - SEP 2019	**Ayudhya Capital Services (Software Engineer)**
 
 # LINKS
 
