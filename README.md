@@ -1,10 +1,8 @@
 Hi, I'm Jirawat Boonkumnerd, I'm a Software Engineer.
 
-# PERSONAL INFORMATION
+### PERSONAL INFORMATION
 
 **Name:**  Jirawat Boonkumnerd
-
-**Location:** Bangkok, Thailand
 
 **Gender:** Male
 
@@ -16,7 +14,7 @@ Hi, I'm Jirawat Boonkumnerd, I'm a Software Engineer.
 
 - English (Intermediate)
 
-# TECHNICAL EXPERIENCE
+### TECHNICAL EXPERIENCE
 
 **Knowledges:**
 
@@ -34,9 +32,9 @@ Hi, I'm Jirawat Boonkumnerd, I'm a Software Engineer.
 
 **Programming languages:**
 
-Advanced: Python, JavaScript/Typescript, Java
+- **Advanced:** Python, JavaScript/Typescript, Java
 
-Intermediate: Bash/Shell, C#, C++
+- **Intermediate:** Bash/Shell, C#, C++
 
 **Web/Mobile Frameworks:**  React, React Native, Angular, Ionic, Spring Boot, Flask, Express
 
@@ -48,11 +46,11 @@ Intermediate: Bash/Shell, C#, C++
   
 # WORK EXPERIENCE
 
-MAR 2020 - Present	Self-Employed
+MAR 2020 - Present	**Self-Employed**
 
-SEP 2019 - MAR 2020	OxygenAI (Software Engineer)
+SEP 2019 - MAR 2020	**OxygenAI (Software Engineer)**
 
-SEP 2018 - SEP 2019	Ayudhya Capital Services (Software Engineer)
+SEP 2018 - SEP 2019	**Ayudhya Capital Services (Software Engineer)**
 
 # LINKS
 
