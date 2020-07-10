@@ -22,7 +22,7 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 ## TECHNICAL EXPERIENCE
 
-**Knowledges:**
+**Knowledge:**
 
 - Front-end Development (Web, Mobile)
 
