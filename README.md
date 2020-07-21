@@ -41,3 +41,5 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 - **Intermediate:** Bash/Shell, C#, C++
 
 </details>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq)](https://github.com/kittinan/spotify-github-profile)
