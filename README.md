@@ -7,6 +7,10 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 
 **Name:**  Jirawat Boonkumnerd
 
+**Birthdate:** 1 April 1996
+
+**Location:** Bangkok, Thailand.
+
 **Languages:**
 
 - Thai (Native)
