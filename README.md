@@ -1,7 +1,5 @@
 Hi, I'm @ntsd, I'm a Software Engineer.
 
-## PERSONAL INFORMATION
-
 **Name:**  Jirawat Boonkumnerd
 
 **Gender:** Male
@@ -20,9 +18,10 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 **Linkedin:** <https://www.linkedin.com/in/ntsd>
 
-## TECHNICAL EXPERIENCE
-
-**Knowledge:**
+<details>
+<summary>
+  <b>Knowledge:</b>
+</summary>
 
 - Front-end Development (Web, Mobile)
 
@@ -36,14 +35,15 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 - Software development process
 
-**Programming languages:**
+</details>
 
+<details>
+<summary>
+  <b>Programming languages:</b>
+</summary>
+  
 - **Advanced:** Python, JavaScript/Typescript, Java
 
 - **Intermediate:** Bash/Shell, C#, C++
 
-**Web/Mobile Frameworks:**  React, React Native, Angular, Ionic, Spring Boot, Flask, Express
-
-**Databases:**  Cassandra, MongoDB, MySQL/MariaDB, Firestore
-
-**Cloud Services:** Google Cloud Service, Netlify
+</details>
