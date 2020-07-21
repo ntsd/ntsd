@@ -2,10 +2,6 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 **Name:**  Jirawat Boonkumnerd
 
-**Gender:** Male
-
-**Birthdate:** 1 April 1996
-
 **Language:**
 
 - Thai (Native)
