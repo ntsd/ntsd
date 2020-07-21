@@ -2,11 +2,7 @@ Hi, I'm @ntsd, I'm a Software Engineer.
 
 **Name:**  Jirawat Boonkumnerd
 
-**Language:**
-
-- Thai (Native)
-
-- English (Intermediate)
+**Language:** Thai (Native), English (Intermediate)
 
 **Website:** <https://ntsd.me>
 
