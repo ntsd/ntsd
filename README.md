@@ -53,4 +53,4 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
