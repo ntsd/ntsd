@@ -1,12 +1,14 @@
-Hi, I'm @ntsd, I'm a Software Engineer.
+Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 
 **Name:**  Jirawat Boonkumnerd
 
-**Language:** Thai (Native), English (Intermediate)
+**Languages:**
+
+- Thai (Native)
+
+- English (Intermediate)
 
 **Website:** <https://ntsd.me>
-
-**Github:** <https://github.com/ntsd>
 
 **Linkedin:** <https://www.linkedin.com/in/ntsd>
 
