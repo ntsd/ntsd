@@ -1,5 +1,10 @@
 Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 
+<details>
+<summary>
+  <b>Personal Information:</b>
+</summary>
+
 **Name:**  Jirawat Boonkumnerd
 
 **Languages:**
@@ -11,6 +16,8 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 **Website:** <https://ntsd.me>
 
 **Linkedin:** <https://www.linkedin.com/in/ntsd>
+
+</details>
 
 <details>
 <summary>
