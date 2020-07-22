@@ -54,3 +54,8 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 </details>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+
+<iframe 
+src="http://localhost:3000/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=true&preview_song=true"
+width="320" height="445" scrolling="no" allowtransparency="true" allow="encrypted-media" style="border: none; overflow: hidden;"
+></iframe>
