@@ -24,8 +24,6 @@
 
 - English (Intermediate)
 
-**Website:** <https://ntsd.me>
-
 </details>
 
 <details>
