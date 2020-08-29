@@ -1,4 +1,11 @@
-Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
+## Hi, I'm Jirawat Boonkumnerd ([@ntsd](https://github.com/ntsd))
+
+#### A Software Engineer who working on wide software development skills. I deliver software and problems solving for people. I'm welcome to help your idea come true.
+
+[![Website ntsd](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Plex&logoColor=white&link=https://ntsd.me&cacheSeconds=864000)](https://ntsd.me)
+[![Linkedin ntsd](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntsd&cacheSeconds=864000)](https://www.linkedin.com/in/ntsd/)
+[![GitHub ntsd](https://img.shields.io/github/followers/ntsd?label=follow&style=social&cacheSeconds=86400)](https://github.com/ntsd)
+
 
 <details>
 <summary>
@@ -18,8 +25,6 @@ Hi, I'm [@ntsd](https://github.com/ntsd), I'm a Software Engineer.
 - English (Intermediate)
 
 **Website:** <https://ntsd.me>
-
-**Linkedin:** <https://www.linkedin.com/in/ntsd>
 
 </details>
 
