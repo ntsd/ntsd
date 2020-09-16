@@ -56,6 +56,6 @@
 
 </details>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&column=8)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide=stars&hide_title=true&line_height=26" />&nbsp;<a href="https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=false" alt="ntsd github stats" /></a>
