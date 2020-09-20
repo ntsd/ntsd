@@ -10,8 +10,8 @@
 <details>
 <summary>
   <b>Personal Information :</b>
-</summary>
-
+</summary><br>
+  
 **Name:**  Jirawat Boonkumnerd
 
 **Birthdate:** 1 April 1996
