@@ -14,8 +14,6 @@
   
 **Name:**  Jirawat Boonkumnerd
 
-**Birthdate:** 1 April 1996
-
 **Location:** Bangkok, Thailand.
 
 **Languages:**
