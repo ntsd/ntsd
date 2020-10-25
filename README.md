@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-  <b>Personal Information :</b>
+  <b>Personal Information</b>
 </summary><br>
   
 **Name:**  Jirawat Boonkumnerd
@@ -26,7 +26,7 @@
 
 <details>
 <summary>
-  <b>Knowledge :</b>
+  <b>Knowledge</b>
 </summary>
 
 - Front-end Development (Web, Mobile)
@@ -45,7 +45,7 @@
 
 <details>
 <summary>
-  <b>Programming languages :</b>
+  <b>Programming languages</b>
 </summary>
   
 - **Advanced:** Python, JavaScript/Typescript, Java
@@ -56,7 +56,7 @@
 
 <details>
 <summary>
-  <b>Github Trophy :</b>
+  <b>Github Trophy</b>
 </summary>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&column=8)
