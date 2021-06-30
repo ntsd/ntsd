@@ -59,7 +59,7 @@
   <b>Github Trophy</b>
 </summary>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark)
 
 </details>
 
