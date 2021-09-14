@@ -48,7 +48,7 @@
   <b>Programming languages</b>
 </summary>
   
-- **Advanced:** Python, JavaScript/Typescript, Java
+- **Advanced:** Go, Python, JavaScript/Typescript, Java
 
 - **Intermediate:** Bash/Shell, C#, C++
 
