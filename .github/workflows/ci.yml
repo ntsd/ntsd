@@ -1,5 +1,5 @@
 name: Generate Github Profile
-on: [push, pull_request]
+on: push
 
 jobs:
   github-profile:
