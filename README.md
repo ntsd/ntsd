@@ -57,16 +57,16 @@
 <summary>
   <b>Contributed Repositories</b>
 </summary>
-- [freqtrade [14105 Stars]](https://github.com/freqtrade/freqtrade)
-- [Yosoro [2595 Stars]](https://github.com/IceEnd/Yosoro)
-- [crontab-ui [1785 Stars]](https://github.com/alseambusher/crontab-ui)
-- [carbon-charts [426 Stars]](https://github.com/carbon-design-system/carbon-charts)
-- [spotify-github-profile [389 Stars]](https://github.com/kittinan/spotify-github-profile)
-- [webring [99 Stars]](https://github.com/wonderfulsoftware/webring)
-- [Hacktoberfest-2020-FizzBuzz [68 Stars]](https://github.com/NullDev/Hacktoberfest-2020-FizzBuzz)
-- [git-garden [37 Stars]](https://github.com/heypoom/git-garden)
-- [coffee-to-code [30 Stars]](https://github.com/narze/coffee-to-code)
-- [baht.js [28 Stars]](https://github.com/narze/baht.js)
+ - [freqtrade (14105 Stars)](https://github.com/freqtrade/freqtrade)
+ - [Yosoro (2595 Stars)](https://github.com/IceEnd/Yosoro)
+ - [crontab-ui (1785 Stars)](https://github.com/alseambusher/crontab-ui)
+ - [carbon-charts (426 Stars)](https://github.com/carbon-design-system/carbon-charts)
+ - [spotify-github-profile (389 Stars)](https://github.com/kittinan/spotify-github-profile)
+ - [webring (99 Stars)](https://github.com/wonderfulsoftware/webring)
+ - [Hacktoberfest-2020-FizzBuzz (68 Stars)](https://github.com/NullDev/Hacktoberfest-2020-FizzBuzz)
+ - [git-garden (37 Stars)](https://github.com/heypoom/git-garden)
+ - [coffee-to-code (30 Stars)](https://github.com/narze/coffee-to-code)
+ - [baht.js (28 Stars)](https://github.com/narze/baht.js)
 
 </details>
 
