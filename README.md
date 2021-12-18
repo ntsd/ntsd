@@ -55,6 +55,25 @@
 
 <details>
 <summary>
+  <b>My Repositories</b>
+</summary>
+
+ - [freqtrade-configs (19 Stars)](https://github.com/ntsd/freqtrade-configs)
+
+ - [shopee-autobuy (13 Stars)](https://github.com/ntsd/shopee-autobuy)
+
+ - [dotfiles (3 Stars)](https://github.com/ntsd/dotfiles)
+
+ - [docker-templates (3 Stars)](https://github.com/ntsd/docker-templates)
+
+ - [alpha-interface (2 Stars)](https://github.com/ntsd/alpha-interface)
+
+
+
+</details>
+
+<details>
+<summary>
   <b>Contributed Repositories</b>
 </summary>
 
