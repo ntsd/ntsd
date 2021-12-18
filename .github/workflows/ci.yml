@@ -17,7 +17,4 @@ jobs:
           git config --local user.email "ntsd@users.noreply.github.com"
           git config --local user.name "ntsd"
           git commit -am "docs: auto update README.md"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          git push
