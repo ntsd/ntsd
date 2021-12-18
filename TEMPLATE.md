@@ -55,6 +55,17 @@
 
 <details>
 <summary>
+  <b>My Repositories</b>
+</summary>
+
+{% for repo in repositories %} - [{{ repo.name }} ({{ repo.stargazerCount }} Stars)]({{ repo.url }})
+
+{% endfor %}
+
+</details>
+
+<details>
+<summary>
   <b>Contributed Repositories</b>
 </summary>
 
