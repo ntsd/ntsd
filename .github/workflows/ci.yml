@@ -5,6 +5,7 @@ jobs:
   github-profile:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Github Profile Repositories
         uses: ntsd/github-profile-repositories@master
         with:
