@@ -9,8 +9,8 @@ jobs:
         uses: ntsd/github-profile-repositories@master
         with:
           github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
-          template-file: "TEMPLATE.md"
-          render-file: "README.md"
+          template-file: "./TEMPLATE.md"
+          render-file: "./README.md"
       - name: Commit files
         run: |
           git commit -m "docs: auto update README.md" -a
