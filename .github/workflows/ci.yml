@@ -12,6 +12,7 @@ jobs:
           github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
           template-file: "./TEMPLATE.md"
           render-file: "./README.md"
+          limit: 5
       - name: Commit files
         run: |
           git config --local user.email "ntsd@users.noreply.github.com"
