@@ -1,0 +1,22 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  github-profile:
+    name: Github Profile
+    runs-on: ubuntu-latest
+    steps:
+      - name: Github Repositories
+        uses: ntsd/github-profile-repositories
+        with:
+          github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
+          template-file: "TEMPLATE.md"
+          render-file: "README.md"
+          limit: 5
+      - name: Commit files
+        run: |
+          git commit -m "docs: auto update README.md" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
