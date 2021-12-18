@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Github Profile Repositories
-        uses: ntsd/github-profile-repositories
+        uses: ntsd/github-profile-repositories@master
         with:
           github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
           template-file: "TEMPLATE.md"
