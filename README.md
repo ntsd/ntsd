@@ -1,6 +1,6 @@
 ## Hi, I'm Jirawat Boonkumnerd ([@ntsd](https://github.com/ntsd))
 
-#### A Software Engineer who working on wide software development skills. I deliver software and problems solving. I'm welcome to help an idea come true.
+#### A Software Engineer who working on wide software development skills. I deliver software and problems solving.
 
 [![Website ntsd](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Plex&logoColor=white&link=https://ntsd.me&cacheSeconds=864000)](https://ntsd.dev)
 [![Linkedin ntsd](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntsd&cacheSeconds=864000)](https://www.linkedin.com/in/ntsd)
