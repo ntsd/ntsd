@@ -17,5 +17,6 @@ jobs:
         run: |
           git config --local user.email "ntsd@users.noreply.github.com"
           git config --local user.name "ntsd"
+          git add ./README.md
           git commit -am "docs: auto update README.md"
           git push
