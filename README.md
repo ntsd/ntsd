@@ -2,7 +2,7 @@
 
 #### A Software Engineer who working on wide software development skills. I deliver software and problems solving.
 
-[![Website ntsd](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Plex&logoColor=white&link=https://ntsd.me&cacheSeconds=864000)](https://ntsd.dev)
+[![Website ntsd](https://img.shields.io/badge/-Website-333?style=flat-square&logoColor=white&link=https://ntsd.me&cacheSeconds=864000&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+Cjxzdmcgd2lkdGg9Ijc5Ljc2OG1tIiBoZWlnaHQ9IjgxLjMxN21tIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA3OS43NjggODEuMzE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM2LjM5OSAtOTEuMzg1KSI+CiAgPGVsbGlwc2UgY3g9Ijc2LjI4MyIgY3k9IjEzMi4wNCIgcng9IjM5Ljg4NCIgcnk9IjQwLjY1OCIgZmlsbD0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIuMjU2NTYiLz4KICA8dGV4dCB0cmFuc2Zvcm09InNjYWxlKDEuMDA0OSAuOTk1MSkiIHg9IjUwLjkyMzkyMyIgeT0iMTU2Ljg4MTQxIiBmaWxsPSIjMDAwMDAwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI3Mi4xMjFweCIgc3Ryb2tlLXdpZHRoPSIuMzc1NjMiIHN0eWxlPSJsaW5lLWhlaWdodDoxLjI1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48dHNwYW4geD0iNTAuOTIzOTIzIiB5PSIxNTYuODgxNDEiIGZpbGw9IiMwMDAwMDAiIGZvbnQtZmFtaWx5PSInVGltZXMgTmV3IFJvbWFuJyIgZm9udC1zaXplPSI3Mi4xMjFweCIgc3Ryb2tlLXdpZHRoPSIuMzc1NjMiPk48L3RzcGFuPjwvdGV4dD4KIDwvZz4KPC9zdmc+Cg==)](https://ntsd.dev)
 [![Linkedin ntsd](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntsd&cacheSeconds=864000)](https://www.linkedin.com/in/ntsd)
 [![GitHub ntsd](https://img.shields.io/github/followers/ntsd?label=follow&style=social&cacheSeconds=86400)](https://github.com/ntsd)
 
@@ -30,15 +30,11 @@
 
 - Front-end Development (Web, Mobile)
 
-- Back-end Development (API, Database, Security)
+- Back-end Development (API, Database)
 
 - Infrastructure and Cloud Service
 
 - Algorithms and Data Structures
-
-- Image Processing, Machine Learning, Deep Learning
-
-- Software development process
 
 </details>
 
@@ -47,9 +43,9 @@
   <b>Programming languages</b>
 </summary>
   
-- **Advanced:** Go, Python, JavaScript/Typescript
+- **Comfortable:** Go, Python, JavaScript/Typescript
 
-- **Experienced:** Bash/Shell, C++, Java
+- **Familiar:** Bash/Shell, C++, Java
 
 </details>
 
@@ -58,15 +54,15 @@
   <b>My Repositories</b>
 </summary>
 
- - [freqtrade-configs (19 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (23 Stars)](https://github.com/ntsd/freqtrade-configs)
 
- - [shopee-autobuy (13 Stars)](https://github.com/ntsd/shopee-autobuy)
+ - [shopee-autobuy (17 Stars)](https://github.com/ntsd/shopee-autobuy)
 
  - [dotfiles (3 Stars)](https://github.com/ntsd/dotfiles)
 
  - [docker-templates (3 Stars)](https://github.com/ntsd/docker-templates)
 
- - [alpha-interface (2 Stars)](https://github.com/ntsd/alpha-interface)
+ - [cross-clipboard (2 Stars)](https://github.com/ntsd/cross-clipboard)
 
 
 
@@ -77,15 +73,15 @@
   <b>Contributed Repositories</b>
 </summary>
 
- - [freqtrade (14105 Stars)](https://github.com/freqtrade/freqtrade)
+ - [freqtrade (19501 Stars)](https://github.com/freqtrade/freqtrade)
 
- - [Yosoro (2595 Stars)](https://github.com/IceEnd/Yosoro)
+ - [Yosoro (2671 Stars)](https://github.com/IceEnd/Yosoro)
 
- - [crontab-ui (1785 Stars)](https://github.com/alseambusher/crontab-ui)
+ - [crontab-ui (2095 Stars)](https://github.com/alseambusher/crontab-ui)
 
- - [carbon-charts (426 Stars)](https://github.com/carbon-design-system/carbon-charts)
+ - [NostalgiaForInfinity (1384 Stars)](https://github.com/iterativv/NostalgiaForInfinity)
 
- - [spotify-github-profile (389 Stars)](https://github.com/kittinan/spotify-github-profile)
+ - [spotify-github-profile (778 Stars)](https://github.com/kittinan/spotify-github-profile)
 
 
 
