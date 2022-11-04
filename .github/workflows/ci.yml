@@ -1,5 +1,7 @@
 name: Generate Github Profile
-on: push
+on:
+  push:
+  workflow_call:
 
 jobs:
   github-profile:
