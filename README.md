@@ -56,13 +56,13 @@
 
  - [freqtrade-configs (23 Stars)](https://github.com/ntsd/freqtrade-configs)
 
- - [shopee-autobuy (17 Stars)](https://github.com/ntsd/shopee-autobuy)
+ - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [dotfiles (3 Stars)](https://github.com/ntsd/dotfiles)
+ - [cross-clipboard (4 Stars)](https://github.com/ntsd/cross-clipboard)
 
- - [docker-templates (3 Stars)](https://github.com/ntsd/docker-templates)
+ - [github-profile-repositories (3 Stars)](https://github.com/ntsd/github-profile-repositories)
 
- - [cross-clipboard (2 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [alpha-interface (3 Stars)](https://github.com/ntsd/alpha-interface)
 
 
 
@@ -73,15 +73,15 @@
   <b>Contributed Repositories</b>
 </summary>
 
- - [freqtrade (19501 Stars)](https://github.com/freqtrade/freqtrade)
+ - [freqtrade (19721 Stars)](https://github.com/freqtrade/freqtrade)
 
- - [Yosoro (2671 Stars)](https://github.com/IceEnd/Yosoro)
+ - [Yosoro (2678 Stars)](https://github.com/IceEnd/Yosoro)
 
- - [crontab-ui (2095 Stars)](https://github.com/alseambusher/crontab-ui)
+ - [crontab-ui (2122 Stars)](https://github.com/alseambusher/crontab-ui)
 
- - [NostalgiaForInfinity (1384 Stars)](https://github.com/iterativv/NostalgiaForInfinity)
+ - [NostalgiaForInfinity (1414 Stars)](https://github.com/iterativv/NostalgiaForInfinity)
 
- - [spotify-github-profile (778 Stars)](https://github.com/kittinan/spotify-github-profile)
+ - [spotify-github-profile (807 Stars)](https://github.com/kittinan/spotify-github-profile)
 
 
 
