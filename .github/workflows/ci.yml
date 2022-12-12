@@ -14,6 +14,7 @@ jobs:
           github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
           template-file: "./TEMPLATE.md"
           render-file: "./README.md"
+          contributed-order-by: OCCURRED_AT
       - name: Commit files
         run: |
           git config --local user.email "ntsd@users.noreply.github.com"
