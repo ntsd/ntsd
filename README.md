@@ -54,34 +54,15 @@
   <b>My Repositories</b>
 </summary>
 
- - [freqtrade-configs (23 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (24 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [cross-clipboard (4 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (5 Stars)](https://github.com/ntsd/cross-clipboard)
 
- - [github-profile-repositories (3 Stars)](https://github.com/ntsd/github-profile-repositories)
+ - [github-profile-repositories (4 Stars)](https://github.com/ntsd/github-profile-repositories)
 
  - [alpha-interface (3 Stars)](https://github.com/ntsd/alpha-interface)
-
-
-
-</details>
-
-<details>
-<summary>
-  <b>Contributed Repositories</b>
-</summary>
-
- - [freqtrade (19721 Stars)](https://github.com/freqtrade/freqtrade)
-
- - [Yosoro (2678 Stars)](https://github.com/IceEnd/Yosoro)
-
- - [crontab-ui (2122 Stars)](https://github.com/alseambusher/crontab-ui)
-
- - [NostalgiaForInfinity (1414 Stars)](https://github.com/iterativv/NostalgiaForInfinity)
-
- - [spotify-github-profile (807 Stars)](https://github.com/kittinan/spotify-github-profile)
 
 
 
