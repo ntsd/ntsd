@@ -62,17 +62,6 @@
 
 <details>
 <summary>
-  <b>Contributed Repositories</b>
-</summary>
-
-{% for repo in contributed %} - [{{ repo.name }} ({{ repo.stargazerCount }} Stars)]({{ repo.url }})
-
-{% endfor %}
-
-</details>
-
-<details>
-<summary>
   <b>Github Stats</b>
 </summary>
   
