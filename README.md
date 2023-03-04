@@ -54,11 +54,11 @@
   <b>My Repositories</b>
 </summary>
 
- - [freqtrade-configs (24 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (25 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [cross-clipboard (5 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (6 Stars)](https://github.com/ntsd/cross-clipboard)
 
  - [github-profile-repositories (4 Stars)](https://github.com/ntsd/github-profile-repositories)
 
