@@ -20,7 +20,11 @@ jobs:
           git config --local user.email "ntsd@users.noreply.github.com"
           git config --local user.name "ntsd"
           git add README.md 
-          if ! git diff-index --quiet HEAD; then
+          if ! git diff-index --quiet HEAD README.md; then
             git commit -m "docs: auto update README.md"
             git push
           fi
+      - name: Pull in ntsd.dev posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://ntsd.dev/feed.xml"
