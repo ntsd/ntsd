@@ -58,11 +58,11 @@
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
+ - [ratchagitja.md (10 Stars)](https://github.com/narze/ratchagitja.md)
+
  - [cross-clipboard (6 Stars)](https://github.com/ntsd/cross-clipboard)
 
  - [github-profile-repositories (4 Stars)](https://github.com/ntsd/github-profile-repositories)
-
- - [alpha-interface (3 Stars)](https://github.com/ntsd/alpha-interface)
 
 
 
