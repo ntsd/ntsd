@@ -56,9 +56,9 @@
 
  - [freqtrade-configs (25 Stars)](https://github.com/ntsd/freqtrade-configs)
 
- - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
+ - [ratchagitja.md (22 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [ratchagitja.md (10 Stars)](https://github.com/narze/ratchagitja.md)
+ - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
  - [cross-clipboard (6 Stars)](https://github.com/ntsd/cross-clipboard)
 
