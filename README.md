@@ -54,9 +54,9 @@
   <b>My Repositories</b>
 </summary>
 
- - [freqtrade-configs (25 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [ratchagitja.md (28 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [ratchagitja.md (22 Stars)](https://github.com/narze/ratchagitja.md)
+ - [freqtrade-configs (25 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
