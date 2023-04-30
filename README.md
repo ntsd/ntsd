@@ -56,13 +56,13 @@
 
  - [ratchagitja.md (29 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [freqtrade-configs (25 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (26 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [cross-clipboard (6 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [zero-share (7 Stars)](https://github.com/ntsd/zero-share)
 
- - [zero-share (5 Stars)](https://github.com/ntsd/zero-share)
+ - [cross-clipboard (7 Stars)](https://github.com/ntsd/cross-clipboard)
 
 
 
