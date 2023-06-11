@@ -54,9 +54,9 @@
   <b>My Repositories</b>
 </summary>
 
- - [ratchagitja.md (33 Stars)](https://github.com/narze/ratchagitja.md)
+ - [ratchagitja.md (32 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [zero-share (29 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (31 Stars)](https://github.com/ntsd/zero-share)
 
  - [freqtrade-configs (27 Stars)](https://github.com/ntsd/freqtrade-configs)
 
