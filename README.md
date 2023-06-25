@@ -58,7 +58,7 @@
 
  - [ratchagitja.md (32 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [freqtrade-configs (28 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (29 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
@@ -87,4 +87,9 @@
 <!-- BLOG-POST-LIST:END -->
 </details>
 
+<details>
+<summary>
+  <b>Spotify Playing</b>
+</summary>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true)
+</details>
