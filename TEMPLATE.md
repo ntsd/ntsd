@@ -19,7 +19,7 @@
 
 - Thai (Native)
 
-- English (Intermediate)
+- English (Proficiency)
 
 </details>
 
