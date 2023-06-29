@@ -40,7 +40,7 @@
 
 <details>
 <summary>
-  <b>Programming Languages</b>
+  <b>Programming languages</b>
 </summary>
   
 - **Comfortable:** Go, Python, JavaScript/Typescript
@@ -54,7 +54,7 @@
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (32 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (33 Stars)](https://github.com/ntsd/zero-share)
 
  - [ratchagitja.md (32 Stars)](https://github.com/narze/ratchagitja.md)
 
