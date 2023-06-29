@@ -40,7 +40,7 @@
 
 <details>
 <summary>
-  <b>Programming Languages</b>
+  <b>Programming languages</b>
 </summary>
   
 - **Comfortable:** Go, Python, JavaScript/Typescript
@@ -54,7 +54,7 @@
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (32 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (33 Stars)](https://github.com/ntsd/zero-share)
 
  - [ratchagitja.md (32 Stars)](https://github.com/narze/ratchagitja.md)
 
@@ -78,18 +78,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />&nbsp;<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true">
 
 </details>
-
-<details>
-<summary>
-  <b>Blog Posts</b>
-</summary>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-<summary>
-  <b>Spotify Playing</b>
-</summary>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true)
-</details>
