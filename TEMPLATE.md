@@ -75,8 +75,10 @@
 <summary>
   <b>Blog Posts</b>
 </summary>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 </details>
 
 <details>
