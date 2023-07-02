@@ -85,11 +85,6 @@
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [My kubectl commands cheat sheet](https://ntsd.dev/my-kubectl-cheat-sheet/)
-- [How to manage multiple Git accounts](https://ntsd.dev/git-multiple-accounts/)
-- [Reduce runtime JavaScript to improve page speed using Puppeteer](https://ntsd.dev/reduce-runtime-javascript-using-puppeeteer/)
-- [Explain index types in PostgreSQL](https://ntsd.dev/postgresql-index-types/)
-- [Speed testing and compare free static web hosting &lpar;Netlify vs Github Page vs Fast.io&rpar;](https://ntsd.dev/speed-testing-free-static-web-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
