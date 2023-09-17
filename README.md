@@ -54,15 +54,15 @@
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (51 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (52 Stars)](https://github.com/ntsd/zero-share)
 
  - [ratchagitja.md (34 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [freqtrade-configs (30 Stars)](https://github.com/ntsd/freqtrade-configs)
+ - [freqtrade-configs (29 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [cross-clipboard (10 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (11 Stars)](https://github.com/ntsd/cross-clipboard)
 
 
 
@@ -85,11 +85,6 @@
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Separate critical CSS and non-critical CSS for faster page load](https://ntsd.dev/extract-cricital-css/)
-- [Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences](https://ntsd.dev/recoil-persistent-with-capacitor-preferences/)
-- [My kubectl commands cheat sheet](https://ntsd.dev/my-kubectl-cheat-sheet/)
-- [How to manage multiple Git accounts](https://ntsd.dev/git-multiple-accounts/)
-- [Reduce runtime JavaScript to improve page speed using Puppeteer](https://ntsd.dev/reduce-runtime-javascript-using-puppeeteer/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
