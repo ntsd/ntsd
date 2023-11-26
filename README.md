@@ -54,7 +54,7 @@ A Software Engineer who working on wide software development skills. I deliver s
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (59 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (60 Stars)](https://github.com/ntsd/zero-share)
 
  - [ratchagitja.md (35 Stars)](https://github.com/narze/ratchagitja.md)
 
@@ -62,7 +62,7 @@ A Software Engineer who working on wide software development skills. I deliver s
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
- - [cross-clipboard (16 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (17 Stars)](https://github.com/ntsd/cross-clipboard)
 
 
 
@@ -85,11 +85,6 @@ A Software Engineer who working on wide software development skills. I deliver s
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Astro Hybrid rendering site on Clouldflare Pages](https://ntsd.dev/deploy-astro-on-clouflare-page/)
-- [Separate critical CSS and non-critical CSS for faster page load](https://ntsd.dev/extract-cricital-css/)
-- [Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences](https://ntsd.dev/recoil-persistent-with-capacitor-preferences/)
-- [My kubectl commands cheat sheet](https://ntsd.dev/my-kubectl-cheat-sheet/)
-- [How to manage multiple Git accounts](https://ntsd.dev/git-multiple-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
