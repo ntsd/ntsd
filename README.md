@@ -54,13 +54,13 @@ A Software Engineer who working on wide software development skills. I deliver s
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (81 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (82 Stars)](https://github.com/ntsd/zero-share)
 
  - [freqtrade-configs (36 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [ratchagitja.md (35 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [cross-clipboard (24 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (25 Stars)](https://github.com/ntsd/cross-clipboard)
 
  - [shopee-autobuy (18 Stars)](https://github.com/ntsd/shopee-autobuy)
 
@@ -83,11 +83,6 @@ A Software Engineer who working on wide software development skills. I deliver s
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch between personal and work Cloudflare Warp profiles](https://ntsd.dev/cloudflare-warp-multiple-profiles/)
-- [Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel](https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/)
-- [Deploy Astro Hybrid rendering site on Cloudflare Pages](https://ntsd.dev/deploy-astro-on-clouflare-page/)
-- [Separate critical CSS and non-critical CSS for faster page load](https://ntsd.dev/extract-cricital-css/)
-- [Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences](https://ntsd.dev/recoil-persistent-with-capacitor-preferences/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
