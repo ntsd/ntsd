@@ -54,13 +54,13 @@ A Software Engineer who working on wide software development skills. I deliver s
   <b>My Repositories</b>
 </summary>
 
- - [zero-share (94 Stars)](https://github.com/ntsd/zero-share)
+ - [zero-share (95 Stars)](https://github.com/ntsd/zero-share)
 
  - [freqtrade-configs (38 Stars)](https://github.com/ntsd/freqtrade-configs)
 
  - [ratchagitja.md (36 Stars)](https://github.com/narze/ratchagitja.md)
 
- - [cross-clipboard (30 Stars)](https://github.com/ntsd/cross-clipboard)
+ - [cross-clipboard (32 Stars)](https://github.com/ntsd/cross-clipboard)
 
  - [shopee-autobuy (19 Stars)](https://github.com/ntsd/shopee-autobuy)
 
@@ -83,11 +83,6 @@ A Software Engineer who working on wide software development skills. I deliver s
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Stream Pipe and Transform in Node.js](https://ntsd.dev/node-stream-pipe-and-transform/)
-- [Switch between personal and work Cloudflare Warp profiles](https://ntsd.dev/cloudflare-warp-multiple-profiles/)
-- [Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel](https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/)
-- [Deploy Astro Hybrid rendering site on Cloudflare Pages](https://ntsd.dev/deploy-astro-on-clouflare-page/)
-- [Separate critical CSS and non-critical CSS for faster page load](https://ntsd.dev/extract-cricital-css/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
