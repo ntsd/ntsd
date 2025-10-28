@@ -62,10 +62,16 @@ A Software Engineer who working on wide software development skills. I deliver s
 
 <details>
 <summary>
-  <b>Github Stats</b>
+  <b>Stats</b>
 </summary>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&column=8)
+#### Github Stats
+
+![trophy](https://github-readme-stats.vercel.app/api?username=ntsd&theme=dark)
+
+#### Holopin
+
+[![An image of @ntsd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ntsd)](https://holopin.io/@ntsd)
 
 </details>
 
