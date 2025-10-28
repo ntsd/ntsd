@@ -70,10 +70,16 @@ A Software Engineer who working on wide software development skills. I deliver s
 
 <details>
 <summary>
-  <b>Github Stats</b>
+  <b>Stats</b>
 </summary>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ntsd&theme=onedark&column=8)
+#### Github Stats
+
+![trophy](https://github-readme-stats.vercel.app/api?username=ntsd&theme=dark)
+
+#### Holopin
+
+[![An image of @ntsd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ntsd)](https://holopin.io/@ntsd)
 
 </details>
 
@@ -83,11 +89,6 @@ A Software Engineer who working on wide software development skills. I deliver s
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Stream Pipe and Transform in Node.js](https://ntsd.dev/node-stream-pipe-and-transform/)
-- [Switch between personal and work Cloudflare Warp profiles](https://ntsd.dev/cloudflare-warp-multiple-profiles/)
-- [Secure home server by Cloudflare Zero Trust and Cloudflare Tunnel](https://ntsd.dev/secure-home-server-by-cloudflare-zero-trust-and-tunnel/)
-- [Deploy Astro Hybrid rendering site on Cloudflare Pages](https://ntsd.dev/deploy-astro-on-clouflare-page/)
-- [Separate critical CSS and non-critical CSS for faster page load](https://ntsd.dev/extract-cricital-css/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
