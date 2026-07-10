@@ -75,7 +75,7 @@ A Software Engineer who working on wide software development skills. I deliver s
   
 #### Github Stats
 
-![trophy](https://github-readme-stats.vercel.app/api?username=ntsd&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ntsd&hide_title=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ntsd&hide_title=true&include_all_commits=true&theme=dark)
 
 #### Holopin
 
