@@ -9,9 +9,10 @@ jobs:
   github-profile:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Github Profile Repositories
-        uses: ntsd/github-profile-repositories@master
+        # v1.1.1
+        uses: ntsd/github-profile-repositories@111fa6a4ddf4bdd08eefce81bfd9494c35020182
         with:
           github-token: "${{ secrets.MY_GITHUB_TOKEN }}"
           template-file: "./TEMPLATE.md"
