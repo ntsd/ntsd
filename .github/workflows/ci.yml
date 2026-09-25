@@ -1,6 +1,8 @@
 name: Generate Github Profile
 on:
   push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # 00:00 on Sunday.
@@ -66,7 +68,8 @@ jobs:
           git add README.md 
           if ! git diff-index --quiet HEAD README.md; then
             git commit -m "docs: auto update README.md"
-            git push
+            git pull --rebase origin master
+            git push origin HEAD
           fi
       - name: Pull in ntsd.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
