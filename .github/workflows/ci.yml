@@ -5,6 +5,13 @@ on:
   schedule:
     - cron: "0 0 * * 0" # 00:00 on Sunday.
 
+# Serialize concurrent runs (schedule + push + dispatch) that both rewrite
+# README.md. cancel-in-progress must stay false: every run performs a real
+# git push, so cancelling one would drop its update.
+concurrency:
+  group: github-profile-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   github-profile:
     runs-on: ubuntu-latest
@@ -20,12 +27,34 @@ jobs:
           limit: 5
       - name: Commit files
         run: |
+          set -euo pipefail
           git config --local user.email "ntsd@users.noreply.github.com"
           git config --local user.name "ntsd"
-          git add README.md 
+          git fetch origin
+          branch="$(git branch --show-current)"
+          git add README.md
           if ! git diff-index --quiet HEAD README.md; then
             git commit -m "docs: auto update README.md"
-            git push
+            # Push with a short retry loop: if a concurrent run (or the
+            # blog-post workflow) lands a commit first, rebase onto it and
+            # retry instead of failing with a non-fast-forward rejection.
+            attempts=0
+            until git push; do
+              attempts=$((attempts + 1))
+              if [ "$attempts" -ge 3 ]; then
+                git rebase --abort 2>/dev/null || true
+                echo "::error::Push still rejected after $attempts attempts; manual re-dispatch required"
+                exit 1
+              fi
+              echo "::warning::Push rejected — concurrent commit landed; rebasing onto origin/$branch and retrying (attempt $attempts)"
+              git fetch origin
+              if ! git rebase "origin/$branch"; then
+                # True README.md conflict (both runs edited the same section).
+                git rebase --abort
+                echo "::error::README.md conflict between concurrent runs; update lost, manual re-dispatch required"
+                exit 1
+              fi
+            done
           fi
       - name: Pull in ntsd.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
