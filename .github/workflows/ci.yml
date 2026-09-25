@@ -18,6 +18,47 @@ jobs:
           template-file: "./TEMPLATE.md"
           render-file: "./README.md"
           limit: 5
+      # zf-nn-47cffe64: the renderer rebuilds README.md from TEMPLATE.md, whose
+      # BLOG-POST-LIST markers are empty, so the populated blog list is wiped
+      # before "Commit files" persists the deletion. Re-inject the posts that
+      # HEAD still has between the markers, keeping the rendered block's own
+      # shape so an empty list produces zero diff.
+      - name: Preserve existing blog post list
+        run: |
+          set -euo pipefail
+          mkdir -p .zf-tmp
+          trap 'rm -rf .zf-tmp' EXIT
+          # The pre-render README.md as committed to HEAD (the renderer only
+          # rewrites the working tree), or an empty file if HEAD has no README.md.
+          git show HEAD:README.md > .zf-tmp/readme-head.md 2>/dev/null || : > .zf-tmp/readme-head.md
+          # Posts between the markers in that file (may be empty).
+          awk '
+            /<!-- BLOG-POST-LIST:START -->/ { in_list = 1; next }
+            /<!-- BLOG-POST-LIST:END -->/   { in_list = 0; exit }
+            in_list { print }
+          ' .zf-tmp/readme-head.md > .zf-tmp/blog-content.txt
+          python3 - <<'PY'
+          import sys
+          start, end = "<!-- BLOG-POST-LIST:START -->", "<!-- BLOG-POST-LIST:END -->"
+          readme = open("README.md", encoding="utf-8").read()
+          if start not in readme or end not in readme:
+              sys.exit("BLOG-POST-LIST markers not found in rendered README.md; refusing to write")
+          i = readme.index(start)
+          j = readme.index(end)
+          if j < i + len(start):
+              sys.exit("BLOG-POST-LIST END marker appears before START marker; refusing to write")
+          posts = open(".zf-tmp/blog-content.txt", encoding="utf-8").read().rstrip("\n")
+          if not posts:
+              # No posts in HEAD: the rendered (empty) file is already the
+              # desired state, so leave it untouched — no diff, no churn.
+              sys.exit(0)
+          # Replace everything between the markers with the posts from HEAD.
+          # Shape matches the live README.md exactly (START, posts, END, no
+          # blank lines inside) and re-running the step is a no-op.
+          open("README.md", "w", encoding="utf-8").write(
+              readme[:i] + start + "\n" + posts + "\n" + end + readme[j + len(end):])
+          PY
+          rm -rf .zf-tmp
       - name: Commit files
         run: |
           git config --local user.email "ntsd@users.noreply.github.com"
